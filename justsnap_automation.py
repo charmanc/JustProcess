@@ -23,7 +23,7 @@ waiting_time = 1 # in sec
 
 # Login credentials
 username = input("Username: ")
-password = input("Password")
+password = input("Password: ")
 
 # Initialize Chrome WebDriver for automating browser tasks
 driver = webdriver.Chrome()
